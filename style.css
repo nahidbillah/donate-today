@@ -101,9 +101,13 @@ body{
 .footer{
     text-align: center;
     background-color: black;
+    margin-top: 100px;
+    padding-top: 15px;
+    padding-bottom: 10px;
 }
 #h2-color{
     color: orangered;
+    font-family: 'Dancing Script', cursive;
 }
 #p-color{
     color: white;
