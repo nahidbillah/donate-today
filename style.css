@@ -63,11 +63,14 @@ body{
     margin-left: 12%;
     margin-right: 12%;
 }
-.size-two{
+.size-plan{
     width: 360;
     height: 352;
     margin: 7px;
-    padding-top: 20px;
+    padding-top: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 40px;
 
 }
 #color-food{
