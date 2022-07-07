@@ -52,9 +52,23 @@ body{
     font-weight: 900;
     font-size: 40px;
 }
-.text-box{
+.text-box {
     border: none;
+    width: 50%;
+    margin: 20px auto;
 }
+.text-box input {
+    height: 40px;
+    width: 100%;
+    border: 0;
+    border-bottom: 1px solid gray;
+    text-align: center;
+}
+.text-box input:focus {
+    outline: none;
+}
+  
+
 .button-two{
     text-align: center;
 }
